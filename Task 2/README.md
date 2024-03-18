@@ -1,6 +1,6 @@
 ## Common Task 2.  Deep Learning based Quark-Gluon Classification
 
-For this task we trained a Resnet 50 Model and VGG Model
+For this task we trained a Resnet 50 Model and VGG-12 Model
 
 ### VGG Model
 #### 1. Training:
