@@ -6,7 +6,7 @@
 - So I have mixed the attention of each head post-softmax 
 
 #### 2. Model Architecture
-![enter image description here](https://raw.githubusercontent.com/MegaPrime369/ML4SCI-Tasks/master/Task%203/model%20architecture.png)
+![enter image description here](https://raw.githubusercontent.com/MegaPrime369/ML4SCI-Tasks/master/Task%203a/model%20architecture.png)
 
 #### 3 Notes on the implemented model:
 - We have taken the patch size as 25
