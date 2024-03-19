@@ -15,8 +15,13 @@
 - Dropout is set to 0.1
 - `AdamW` optimizer is used as it is better suited for for Vision Transformers.
 - `learning rate:1e-3` and `batch_size:32` is used.
+- `weight_decay:1e-4` is used for regularization
+
+#### 3.1 Performance
+- My model has achieved an MSE Loss of 0.001 on the test dataset.
 
 ####  4 Future Works
 - [ ] Implementing other vision transformers like CaiT(https://arxiv.org/abs/2103.17239) which tries to solve the same problem
 - [ ] Merging a Convolutional network with a Vision Transformer where the conv. network will be the teacher and the transformer will be the student
+- [ ] Implementation of a GNN instead of a Vision Transformer
 - [ ] Finding the best depth value for our vision transformer
